@@ -9,11 +9,12 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=risasdev&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" alt="RisasDev GitHub Stats" />
 </a>
 <br />
+<br />
 <a href="https://twitter.com/RisasDev">
-  <img align="left" alt="RisasDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="RisasDev" width="16px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <a href="https://discord.gg/pandacommunity">
-  <img align="left" alt="RisasDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="RisasDev" width="16px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 <br />
