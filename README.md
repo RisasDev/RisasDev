@@ -2,7 +2,7 @@
 
 <br />
 
-- 🌱 Programador de **Java**, siempre aprendiendo nuevas cosas 😄
+- 🌱 Programador de **Java**, siempre aprendiendo cosas nuevas 😄
 - 💻 Actualmente trabajando para Panda Community (Development Team)
   
 <a href="https://github.com/RisasDev">
