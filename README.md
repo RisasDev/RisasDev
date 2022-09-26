@@ -21,10 +21,7 @@
   <a href="https://twitter.com/RisasDev">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="https://discord.pandacommunity.org/">
-    <img align="center" alt="PandaDevelopment Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-  </a>
-  <a href="https://discord.pandahosting.org/">
-    <img align="center" alt="PandaHosting Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <a href="Risas#4170">
+    <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
   </a>
 </p>
