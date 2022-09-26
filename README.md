@@ -21,7 +21,7 @@
   <a href="https://twitter.com/RisasDev">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="Risas#4170">
+  <a href="https://discord.gg/bVGq6G8ur6">
     <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
   </a>
 </p>
