@@ -2,7 +2,6 @@
 
 <br />
 
-- 💼 I currently CEO **Panda Development**
 - 💻 I have knowledge in **Java** and **Python**
 - 🎉 I'm 21 years old
 
