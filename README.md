@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/RisasDev">
+    <img src="https://komarev.com/ghpvc/?username=RisasDev&color=orange">
+  </a>
+</p>
+
 ### Hi, my name is Mauricio but some call me Risas 👋
 
 <br />
