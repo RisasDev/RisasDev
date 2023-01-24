@@ -4,12 +4,10 @@
   </a>
 </p>
 
-### Hi, my name is Mauricio but some call me Risas 👋
+<p align="center"><b>Hi, my name is Mauricio but some call me Risas 👋</b></p>
+<p align="center">💻 I have knowledge in <b>Java</b> and <b>Python</b><br>🎉 I'm <b>21</b> years old</p>
 
-<br />
-
-- 💻 I have knowledge in **Java** and **Python**
-- 🎉 I'm 21 years old
+</br>
 
 <p align="center">
   <a href="https://github.com/RisasDev">
