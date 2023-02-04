@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"><b>Hi, my name is Mauricio but some call me Risas 👋</b></p>
-<p align="center">💻 I have knowledge in <b>Java</b> and <b>Python</b><br>🎉 I'm <b>21</b> years old</p>
+<p align="center">💻 I have knowledge in <b>Java</b> and <b>Python</b><br>🎉 I'm <b>22</b> years old</p>
 
 </br>
 
